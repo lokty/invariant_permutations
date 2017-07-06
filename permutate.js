@@ -39,3 +39,5 @@ let permutate = (arr, lastArray, r = 0) => {                  // arr - initial a
 }
 
 let permutatedArray = permutate(array);
+
+console.log("success");
